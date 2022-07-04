@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm now a third year PhD candidate at National University of Singapore supervised by Prof. [Dong Jin Song](https://www.comp.nus.edu.sg/~dongjs/) and co-supervised by Prof. [Lin Yun](http://linyun.info/). My research interests lie in visualization and explainable AI. Please see my [homepage](https://xianglinyang.github.io/) for my recent activities!
+
 <!--
 **xianglinyang/xianglinyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
