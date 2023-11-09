@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-I'm now a third year PhD candidate at National University of Singapore supervised by Prof. [Dong Jin Song](https://www.comp.nus.edu.sg/~dongjs/) and co-supervised by Prof. [Lin Yun](http://linyun.info/). My research interests lie in visualization and explainable AI. Please see my [homepage](https://xianglinyang.github.io/) for my recent activities!
+I'm now a fourth-year PhD candidate at the National University of Singapore supervised by Prof. [Dong Jin Song](https://www.comp.nus.edu.sg/~dongjs/).
+
+My research focuses on robust and trustworthy machine learning techniques, emphasizing understanding, debugging, and ensuring the behavior of machine learning models. I've particularly created a visual interactive system that vividly depicts the internal evolution of deep neural networks, allowing for the inspection of ML pipelines and the identification of potential issues.
+
+My research is always evolving, and I'm always looking for new perspectives and collaboration opportunities. Please feel free to contact me if you're interested in connecting.
+
+Please see my [homepage](https://xianglinyang.github.io/) for my recent activities!
 
 <!--
 **xianglinyang/xianglinyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
